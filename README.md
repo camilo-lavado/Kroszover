@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Kroszover
 - 👀 I’m interested in software develoment and web design.
-- 🌱 I’m currently learning Fulls Stack Java Development and Python basics.
+- 🌱 I’m Full Stack Java Developer.
+- 🌱 I’m currently learning React and Javascript.
