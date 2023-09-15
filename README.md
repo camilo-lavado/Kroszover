@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Camilo Lavado <br>👀 I’m interested in software develoment and web design.<br>🌱 I’m Full Stack Java Developer.<br>🌱 I’m currently learning React, Javascript, Typescript.
+👋 Hi, I’m Camilo Lavado <br>👀 I’m interested in software develoment and web design.<br>🌱 I’m Full Stack Java and Javascript Developer.<br>🌱 I’m currently learning React and Typescript.
 
 
 ## 🌐 Socials:
