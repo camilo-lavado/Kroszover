@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Camilo Lavado <br>👀 I’m interested in software develoment and web design.<br>🌱 I’m Full Stack Java and Javascript Developer.<br>🌱 I’m currently learning React and Typescript.
-![](https://exercism.org/profiles/Kroszover)<br/>
+![Excercism](https://exercism.org/profiles/Kroszover)<br/>
 
 
 ## 🌐 Socials:
